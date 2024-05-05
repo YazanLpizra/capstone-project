@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Nile</title>
+
+        <link rel="stylesheet" href="static/css/styles.css">
+    </head>
+
+    <body>
+        <div class="body-wrapper">
+            <div class="header">
+                <div class="title">
+                    <img src="https://d3rr2gvhjw0wwy.cloudfront.net/uploads/mandators/49581/file-manager/nile-river-journey-to-egypt.jpg"
+                class="logo-img">
+                    <h1>Nile - Your One Stop Shop for Everything!</h1>
+                </div>
+            </div>
+            <div class="main-content">
+                <div class="sidebar">
+                    <ul>
+                        <li class="category-option" onclick="fetchAndPopulateProducts('Books')">
+                            <a>Books</a>
+                        </li>
+                        <li class="category-option" onclick="fetchAndPopulateProducts('Toys')">
+                            <a>Toys</a>
+                        </li>
+                        <li class="category-option" onclick="fetchAndPopulateProducts('Electronics')">
+                            <a>Electronics</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="main">
+                    <div id="products-container">
+                        {% include "./products.html" %}
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="popupContainer"></div>
+
+        <script type="text/javascript" src="static/js/api-client.js"></script>
+    </body>
+
+</html>

@@ -1,0 +1,10 @@
+{% for product in products %}
+    <div id="{{ product.id }}" class="product-card" onclick="getProductReviewPopup({{ product.id }})">
+        <img class="product-img" src="{{ product.image_path }}">
+        <div class="overlay">
+            <span>Name: {{ product.name }}</span>
+            <span>Price: {{ product.price }}</span>
+            <span>Rating: {{ product.rating }} stars</span>
+        </div>
+    </div>
+{% endfor %}

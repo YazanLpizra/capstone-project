@@ -1,0 +1,191 @@
+[
+    {
+        "name": "Dr Suess: Green Eggs and Ham",
+        "price": 14.99,
+        "rating": 3.5,
+        "category": "Books",
+        "image_path": "static/images/green-eggs.jpg"
+    },
+    {
+        "name": "Shell Silverstein: Where The Sidewalk Ends",
+        "price": 14.99,
+        "rating": 4.0,
+        "category": "Books",
+        "image_path": "static/images/where-the-sidewalk-ends.jpg"
+    },
+    {
+        "name": "Dr. Suess: Oh, the Places Youll Go!",
+        "price": 14.99,
+        "rating": 4.0,
+        "category": "Books",
+        "image_path": "static/images/oh-the-places.jpg"
+    },
+    {
+        "name": "Dr Suess: Green Eggs and Ham",
+        "price": 14.99,
+        "rating": 3.5,
+        "category": "Books",
+        "image_path": "static/images/green-eggs.jpg"
+    },
+    {
+        "name": "Shell Silverstein: Where The Sidewalk Ends",
+        "price": 14.99,
+        "rating": 4.0,
+        "category": "Books",
+        "image_path": "static/images/where-the-sidewalk-ends.jpg"
+    },
+    {
+        "name": "Dr. Suess: Oh, the Places Youll Go!",
+        "price": 14.99,
+        "rating": 4.0,
+        "category": "Books",
+        "image_path": "static/images/oh-the-places.jpg"
+    },
+    {
+        "name": "Dr Suess: Green Eggs and Ham",
+        "price": 14.99,
+        "rating": 3.5,
+        "category": "Books",
+        "image_path": "static/images/green-eggs.jpg"
+    },
+    {
+        "name": "Shell Silverstein: Where The Sidewalk Ends",
+        "price": 14.99,
+        "rating": 4.0,
+        "category": "Books",
+        "image_path": "static/images/where-the-sidewalk-ends.jpg"
+    },
+    {
+        "name": "Dr. Suess: Oh, the Places Youll Go!",
+        "price": 14.99,
+        "rating": 4.0,
+        "category": "Books",
+        "image_path": "static/images/oh-the-places.jpg"
+    },
+    {
+        "name": "iPhone 15",
+        "price": 800,
+        "rating": 3.5,
+        "category": "Electronics",
+        "image_path": "static/images/iphone-15.webp"
+    },
+    {
+        "name": "Samsung S24 Ultra",
+        "price": 800,
+        "rating": 3.5,
+        "category": "Electronics",
+        "image_path": "static/images/samsung-s24-ultra.webp"
+    },
+    {
+        "name": "Motorolla Moto G",
+        "price": 800,
+        "rating": 3.5,
+        "category": "Electronics",
+        "image_path": "static/images/motorolla-moto-g.webp"
+    },
+    {
+        "name": "iPhone 15",
+        "price": 800,
+        "rating": 3.5,
+        "category": "Electronics",
+        "image_path": "static/images/iphone-15.webp"
+    },
+    {
+        "name": "Samsung S24 Ultra",
+        "price": 800,
+        "rating": 3.5,
+        "category": "Electronics",
+        "image_path": "static/images/samsung-s24-ultra.webp"
+    },
+    {
+        "name": "Motorolla Moto G",
+        "price": 800,
+        "rating": 3.5,
+        "category": "Electronics",
+        "image_path": "static/images/motorolla-moto-g.webp"
+    },
+    {
+        "name": "iPhone 15",
+        "price": 800.99,
+        "rating": 3.5,
+        "category": "Electronics",
+        "image_path": "static/images/iphone-15.webp"
+    },
+    {
+        "name": "Samsung S24 Ultra",
+        "price": 800.99,
+        "rating": 3.5,
+        "category": "Electronics",
+        "image_path": "static/images/samsung-s24-ultra.webp"
+    },
+    {
+        "name": "Motorolla Moto G",
+        "price": 199.99,
+        "rating": 3.5,
+        "category": "Electronics",
+        "image_path": "static/images/motorolla-moto-g.webp"
+    },
+    {
+        "name": "Dentist Toys",
+        "price": 24.99,
+        "rating": 3.5,
+        "category": "Toys",
+        "image_path": "static/images/dentist-toys.webp"
+    },
+    {
+        "name": "Magnetic Tiles Toy",
+        "price": 24.99,
+        "rating": 3.5,
+        "category": "Toys",
+        "image_path": "static/images/magnetic-tiles.webp"
+    },
+    {
+        "name": "Monkey Toy",
+        "price": 24.99,
+        "rating": 3.5,
+        "category": "Toys",
+        "image_path": "static/images/monkey.jpg"
+    },
+    {
+        "name": "Dentist Toys",
+        "price": 24.99,
+        "rating": 3.5,
+        "category": "Toys",
+        "image_path": "static/images/dentist-toys.webp"
+    },
+    {
+        "name": "Magnetic Tiles Toy",
+        "price": 24.99,
+        "rating": 3.5,
+        "category": "Toys",
+        "image_path": "static/images/magnetic-tiles.webp"
+    },
+    {
+        "name": "Monkey Toy",
+        "price": 24.99,
+        "rating": 3.5,
+        "category": "Toys",
+        "image_path": "static/images/monkey.jpg"
+    },
+    {
+        "name": "Dentist Toys",
+        "price": 24.99,
+        "rating": 3.5,
+        "category": "Toys",
+        "image_path": "static/images/dentist-toys.webp"
+    },
+    {
+        "name": "Magnetic Tiles Toy",
+        "price": 24.99,
+        "rating": 3.5,
+        "category": "Toys",
+        "image_path": "static/images/magnetic-tiles.webp"
+    },
+    {
+        "name": "Monkey Toy",
+        "price": 24.99,
+        "rating": 3.5,
+        "category": "Toys",
+        "image_path": "static/images/monkey.jpg"
+    }
+]

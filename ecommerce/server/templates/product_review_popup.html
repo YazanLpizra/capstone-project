@@ -1,0 +1,23 @@
+<div id="modal">
+    <div class="modal-header">
+        <button id="modal-close">Close</button>
+    </div>
+    <form id="product-review-form" onsubmit="return createProductReview(event)">
+        <div class="product-info-row">
+            <img src="{{product.image_path}}">
+            <div class="details-col">
+                <h3>Name: {{ product.name }}</h3>
+                <h3>Price: {{ product.price }}</h3>
+                <h3>Rating: {{ product.rating }}</h3>
+                <h3>Category: {{ product.category }}</h3>
+            </div>
+        </div>
+        <div class="form-row">
+            <input type="text" name="id" value="{{product.id}}" hidden/>
+
+            <textarea id="product_review" name="product_review" placeholder="Product Review"></textarea>
+
+            <button  type="submit">Submit Review</button>
+        </div>
+    </form>
+</div>
